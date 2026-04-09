@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorPista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5944f3757e54bce2e3f30e80c2e0b97005ce5f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02fa495506837261ac66222f6fb33e8075fa562f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorPista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorPista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
