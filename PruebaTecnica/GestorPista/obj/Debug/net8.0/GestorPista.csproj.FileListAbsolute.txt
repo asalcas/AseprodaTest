@@ -1,0 +1,15 @@
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\bin\Debug\net8.0\GestorPista.exe
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\bin\Debug\net8.0\GestorPista.deps.json
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\bin\Debug\net8.0\GestorPista.runtimeconfig.json
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\bin\Debug\net8.0\GestorPista.dll
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\bin\Debug\net8.0\GestorPista.pdb
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.AssemblyInfo.cs
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.sourcelink.json
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.dll
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\refint\GestorPista.dll
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.pdb
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\GestorPista.genruntimeconfig.cache
+C:\Users\alvar\Desktop\AseprodaTest\PruebaTecnica\GestorPista\obj\Debug\net8.0\ref\GestorPista.dll
